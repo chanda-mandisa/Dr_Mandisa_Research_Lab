@@ -27,12 +27,6 @@ This project supports the **Dr. Mandisa Research Lab** mission of creating acces
 
 ## 📁 Files
 
-| File                     | Purpose                                         |
-|--------------------------|-------------------------------------------------|
-| `calibration_curve.py`   | Core regression logic and plotting              |
-| `analyze_unknowns.py`    | Applies model to unknowns and estimates values  |
-| `demo_dataset.csv`       | Sample input data for testing                   |
-| `generate_report.py`     | (Planned) Export summary and plots to PDF/PNG   |
 
 
 ## 🧠 Next Steps
