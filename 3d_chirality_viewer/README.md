@@ -1,4 +1,4 @@
-> ⚠️ **Note:** This project is under development. Future versions will include enantiomer comparison and symmetry detection.
+⚠️ **Note:** This project is under development. Future versions will include enantiomer comparison and symmetry detection.
 
 # 🧬 3D Chirality Viewer
 
